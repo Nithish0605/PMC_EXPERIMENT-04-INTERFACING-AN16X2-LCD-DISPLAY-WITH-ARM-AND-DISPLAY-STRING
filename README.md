@@ -417,7 +417,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 <img width="1321" height="866" alt="630899179-2c8899ad-5c77-4796-b8b4-d604dc466a1b" src="https://github.com/user-attachments/assets/60c80ebb-ae63-4d9a-9093-4c6d97a096c4" />
 
-<img width="1358" height="863" alt="630899221-04ec663b-2cdb-4b03-b415-165c8ac6829a" src="https://github.com/user-attachments/assets/08800250-7be4-4042-9a37-9fa48e22cb43" />
+ <img width="1573" height="1000" alt="ChatGPT Image Sep 3, 2026, 10_00_13 AM" src="https://github.com/user-attachments/assets/265fc56c-e2b9-42fb-b1c4-7216d02a33cf" />
+
 
 
  
@@ -426,7 +427,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
  <img width="1217" height="993" alt="630899421-00a767a7-ac2f-436b-9852-23f985842fa9" src="https://github.com/user-attachments/assets/046c6bfb-81a4-4ca8-acd8-0a9f2381518d" />
 
- 
+
+
  
 ## Result :
 Interfacing a lcd display with ARM microcontroller are simulated in proteus and the results are verified.
